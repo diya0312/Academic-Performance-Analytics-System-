@@ -1,14 +1,5 @@
 # Academic Performance Analytics System
 
-**Project ID:** P24  
-**Course:** UE23CS341A  
-**Academic Year:** 2025  
-**Semester:** 5th Sem  
-**Campus:** EC  
-**Branch:** CSE  
-**Section:** C  
-**Team:** Insight24
-
 ## 📋 Project Description
 
 A comprehensive student performance tracking system that analyzes grades, attendance, assignment submissions, and generates predictive insights about academic outcomes. The project would include statistical analysis, data visualization, and reporting features suitable for educational institutions.
@@ -130,7 +121,3 @@ This project is developed for educational purposes as part of the PES University
 
 ---
 
-**Course:** UE23CS341A  
-**Institution:** PES University  
-**Academic Year:** 2025  
-**Semester:** 5th Sem
